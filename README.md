@@ -1,5 +1,4 @@
 # RedBlackTree
-Naomi Campbell
 
 Red-black tree project in Java
 
