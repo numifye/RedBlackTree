@@ -1,4 +1,5 @@
 # RedBlackTree
+Naomi Campbell
 Red-black tree project in Java
 
 Unzipped folder contains entire project (folder) exported from NetBeans. This includes the dictionaryfile.txt, src package, 
